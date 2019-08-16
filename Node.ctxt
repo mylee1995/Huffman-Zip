@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Node
+comment1.params=
+comment1.target=Node()
+comment2.params=value\ frequency\ left\ right\ parent
+comment2.target=Node(char,\ int,\ Node,\ Node,\ Node)
+comment3.params=node
+comment3.target=int\ compareTo(Node)
+comment4.params=
+comment4.target=int\ getFrequency()
+comment5.params=
+comment5.target=char\ getValue()
+comment6.params=value
+comment6.target=Node(char)
+comment7.params=frequency
+comment7.target=Node(int)
+numComments=8
